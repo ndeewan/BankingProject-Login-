@@ -1,0 +1,3 @@
+<connectionStrings configBuilders="Secrets">
+    <add name="Banking" connectionString="Data Source=[Your SQL Server name];Initial Catalog=Banking;Integrated Security=True" />
+  </connectionStrings>
